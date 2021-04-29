@@ -8,8 +8,8 @@ var secondTime = 30000;
 
 // TODO: replace the following ad units with your own
 admobid = { // for iOS
-  banner: 'ca-app-pub-8402859141740261/2841472877',
-  interstitial: 'ca-app-pub-8402859141740261/1528391201',
+  banner: 'ca-app-pub-3940256099942544/6300978111',
+  interstitial: 'ca-app-pub-3940256099942544/1033173712',
 };
 
 function showBanner() {
